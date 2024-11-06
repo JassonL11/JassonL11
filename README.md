@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on web development !!
-🥳 New technology enthusiast
-💻 Science and systems engineering student
+-🔭 I’m currently working on web development !!
+-🥳 New technology enthusiast
+-💻 Science and systems engineering student
 
